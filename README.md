@@ -8,7 +8,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.1. Start the program
+1. Start the program
 2. Import the python pandas library as pd
 3. Read the contents of the Spam csv file
 4. Display the first 5 rows of the dataset using head()
